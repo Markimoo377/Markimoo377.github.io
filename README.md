@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Marcus Liberty-Elder</title>
+    <link rel="stylesheet" href="styles.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  </head>
+
+
+
+  <body>
+    <nav>
+      <h1>Marcus Liberty-Elder</h1>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+
+      </ul>
+    </nav>
+<section class="second-view">
+
+  <h1  id="listings"><u>About</u></h1>
+
+
+  <div class="container">
+    <div class="child">
+  <p><strong><u>My Childhood</u></strong></p>
+    <p>When I was born, I was having trouble breathing. I was born a month earlier than planned. Everyday for that month my mom stayed there with me in the hospital along with my dad. After a month I was able to be taken home where my adventures of mischeif began. I was a smart kid. I was able to watch what my parents did and try to mimick them. I had once opened the door for someone when they knocked by watching how my parents did it. I had even sent my sister a message of random letters on facebook when my mom left me alone around her computer. I was a lot of fun as a child. When I was four or five, I found out I had severe problems with my vision. My right eye was very weak to the point the vision from my left eye would take over my right eye in an attempt to see better. So I ended up getting myself some glasses.</p></div>
+  <div class="child">
+    <img src="kid.jpg" alt="Child Picture">
+  </div>
+
+
+    <div class="child">
+  <p><strong><u>My kid years</u></strong></p>
+  <p>When I was about seven I had to have surgery on my hand to remove a splinter that was about as thick as a toothpick and about two or three inches long. When I was eight my dad had left the picture. Around that time I moved to Parkville Missouri, closer to one of my sisters. We stayed there for about a year. After the year was done, my family and I moved to Falls City, Nebraska where my mom met her now husband and my stepdad. We lived in Nebraska for nine years. My stepdad and I did a lot of fun projects together and we always had stuff we was working on together. He taught me how to think about situations differently and how to approach situations differently. My eighth grade year, I was diagnosed with Crohn's Disease. It was a big shock for me when it happened, but I have started to grow used to it. I have done everything since then to keep my health safe through everything in the world.</p></div>
+  <div class="child">
+    <img src="Child.jpg" alt="Kid Picture">
+  </div>
+
+  <div class="child">
+  <p><strong><u>My highschool years</u></strong></p>
+    <p>My high school years were some of the best. I di One act, which was a play, for four years. Two years I was one of the main characters. I was apart of band where I learned to play the clarinet, bass clarinet, and tenor saxophone. I participated in speech, where I would act out monologues in competitions against other people. I medaled over twenty times throughout my four years of speech. I participated in choir for two years. Throughout my time in high school I made a lot of friends, but I learned a lot of lessons too. MY favorite teacher taught me to do my best to put in the work to get everything done. She was an inspiration for me my last two years of school. I had also met my current girlfriend of three years. I graduated in may of 2021 from Falls City High School in Falls City, Nebraska.</p></div>
+  <div class="child">
+    <img src="prom.jpg" alt="High School Prom">
+  </div>
+
+</div>
+
+
+
+</section>
+<div class="about-end">
+<h2>My life now</h2>
+<p>After high school I decided to move to Springfield, Missouri to get my degree from Ozarks Technical Community College in Computer Information Sciences and a degree in Networking Technology. I am going to keep pursuing my dreams of working on computers.</p>
+</div>
+<footer>
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-twitter"></a>
+</footer>
+  </body>
+</html>
